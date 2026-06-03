@@ -123,7 +123,7 @@ The main objectives of this project are:
 
 # 🖼 Dashboard Preview
 
-[Tech Dashboard](screenshot.png)
+![Dashboard](./screenshot.png))
 ---
 
 # 🔥 Future Enhancements
