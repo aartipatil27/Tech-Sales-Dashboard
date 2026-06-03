@@ -123,7 +123,7 @@ The main objectives of this project are:
 
 # 🖼 Dashboard Preview
 
-![Tech Dashboard]()
+![Tech Dashboard](screenshot1 (2).png)
 
 ---
 
@@ -152,6 +152,8 @@ The main objectives of this project are:
 ## **Aarti Patil**
 
 AI & Data Science Student
+gmail-aartip2705@gmail.com
+github.com/aartipatil27
 
 ---
 
